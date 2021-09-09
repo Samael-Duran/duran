@@ -3,8 +3,8 @@
 
 ###  Nombre: 
 
-    *Samael Duran Rios*
+    _Samael Duran Rios_
 
 ###   No. Control: 
 
-    *18100166*
+    _18100166_
