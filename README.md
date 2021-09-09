@@ -3,8 +3,8 @@
 
 ###  Nombre: 
 
-    _Samael Duran Rios_
+    Samael Duran Rios
 
 ###   No. Control: 
 
-    _18100166_
+    18100166
