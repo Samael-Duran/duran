@@ -23,7 +23,6 @@
 
     *l18100166@nlaredo.tecnm.mx*
 
-Enlace a GitHub:
+Enlace a repositoio GitHub:
 
     https://github.com/Samael-Duran/duran.git
-    
