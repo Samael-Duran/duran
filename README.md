@@ -9,10 +9,6 @@
 
 *18100166*
 
-###  Edad: 
-
-*21*
-
 ###  Correos Electronicos: 
 
 * Personal:
