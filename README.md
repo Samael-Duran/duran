@@ -3,22 +3,8 @@
 
 ###  Nombre: 
 
-*Samael Duran Rios*
+    *Samael Duran Rios*
 
 ###   No. Control: 
 
-*18100166*
-
-###  Correos Electronicos: 
-
-* Personal:
-
-    *samael_drios@hotmail.com*
-    
-* Institucional:
-
-    *l18100166@nlaredo.tecnm.mx*
-
-Enlace a repositoio GitHub:
-
-    https://github.com/Samael-Duran/duran.git
+    *18100166*
