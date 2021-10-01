@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(59, 59, 209, 0.5);
+}
+.Encabezado{
+    text-align: center;
+    background-color: lightgray;
+    height: 50px;
+    padding-left: 10%;  
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-right: 10%;
+    margin-left: 10%;
+    border-style: hidden;
+}
+ul > li:hover > ul{
+    height: 100%;
+    display: block;
+}
+ul > li > ul {
+    display: none;
+}
+ul{
+    list-style: none;
+    width: 200px;
+    padding: 0%;
+}
+.Menu{
+padding-left: 30%;
+padding-right: 30%;
+margin-top: 15%;
+}
+.EncabezadoOP{
+    text-align: center;
+    background-color: lightgray;
+
+}
+.Opcion{
+    text-align: center;
+    background-color: lightslategrey;
+    padding-left: 20px;
+    padding: 0;
+    border: none;
+    text-decoration: underline;
+}
