@@ -11,3 +11,6 @@ table{
     color: white;
     text-align: center;
 }
+tr:nth-of-type(odd){
+    background: blanchedalmond;
+}
