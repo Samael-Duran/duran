@@ -1,0 +1,26 @@
+*{
+   background-color: bisque; 
+}
+
+#Titulo{
+text-align: center;
+padding: 25px;
+}
+#Estudiante{
+    padding: 25px;
+    border-bottom: black;
+    border-bottom: solid 1px black;
+}
+#Domicilio{
+    padding: 25px;
+    border-bottom: solid 1px black;
+}
+#Carrera{
+    padding: 25px;
+    border-bottom: black;
+    border-bottom: solid 1px black;
+}
+#Boton{
+padding: 20px;
+text-align: center;
+}
