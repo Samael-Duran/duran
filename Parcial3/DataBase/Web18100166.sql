@@ -59,5 +59,5 @@ SELECT * FROM Usuarios;
 
 USE web18100166;
 DROP TABLE Usuarios;
-Use web18100166
+Use web18100166;
 DROP TABLE DatosUs;
