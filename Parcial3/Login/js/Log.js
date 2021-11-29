@@ -11,8 +11,8 @@
     
             if (vUsu == 'Usuario' && vPas=='1234') 
             {
-                $.get("./php/Log.php", {parUsu: vUsu,parPas: vPas});
-                $(location).attr('href',"Formulario.php");
+                $.get("./php/Log.php", {Correo: vUsu,PSWD: vPas});
+                $(location).attr('href',"./Formulario.php");
 
             }
             else {
