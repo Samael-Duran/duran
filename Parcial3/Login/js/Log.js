@@ -5,7 +5,7 @@
     });
 
     function IniciarSesion() {
-
+        console.log('iniciar sesion');
         var vUsu = $('#inputUsuario').val();
         var vPas = $('#inputPassword').val();
     
