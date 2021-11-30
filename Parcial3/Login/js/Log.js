@@ -1,7 +1,7 @@
     $('document').ready(function () {
     $('#BtnEntrar').click(IniciarSesion);
     $('#inputPassword').keypress(function(e) {
-            if (e.keyCode == 8 ) { IniciarSesion(); }
+            if (e.keyCode == 13 ) { IniciarSesion(); }
     });
 
     function IniciarSesion() {
