@@ -9,13 +9,16 @@
         var vUsu = $('#inputUsuario').val();
         var vPas = $('#inputPassword').val();
     
-            if (vUsu == 'Usuario' && vPas=='1234') 
-            {
-                $.get("./php/Log.php", {Correo: vUsu,PSWD: vPas});
-                $(location).attr('href',"./index.php");
+        $.post('./php/Log.php', {Correo:vUsu,PSWD:vPas}, function(ret) {
 
+            console.log(ret);
+            if (ret['resultado'] == 0) {
+                console.log('login correcto');
+                $(location).attr("href", "index.php")
             }
             else {
                 console.log('login incorrecto');
+                console.log(ret);
             }
+        },'json');
     }});

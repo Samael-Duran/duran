@@ -2,7 +2,7 @@
 <html>
 <?php
 session_start();
-if ( !isset($_SESSION['Login']) || empty($_SESSION['Login']) ) {
+if ( !isset($_SESSION['Correo']) || empty($_SESSION['Correo']) ) {
     header("Location:./Login.html");
 }
 ?>
